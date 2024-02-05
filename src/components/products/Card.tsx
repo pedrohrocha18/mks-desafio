@@ -62,7 +62,6 @@ function Card({ product }: Props) {
           COMPRAR
         </p>
       </div>
-      <a href={`/products/${product.id}`}>Detalhes</a>
     </div>
   );
 }
